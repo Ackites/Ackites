@@ -5,6 +5,6 @@
 
 ## 🛠 部分技术栈 | Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=js,html,css,androidstudio,arduino,bash,c,cpp,cmake,docker,electron,fastapi,flask,git,github,idea,java,jquery,maven,mysql,mongodb,nginx,nodejs,powershell,py,pytorch,rabbitmq,redis,sass,spring,vite,vscode,vue,anaconda,blender,clion,cloudflare,elasticsearch,gitlab,gmail,go,kali,linux,md,npm,php,pinia,pycharm,raspberrypi,react,sqlite,tailwind,tauri,ts,threejs,ubuntu,windows))](https://skillicons.dev)
 
 <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,arduino,bash,c,cpp,cmake,docker,electron,fastapi,flask,git,github,idea,java,jquery,maven,mysql,mongodb,nginx,nodejs,powershell,py,pytorch,rabbitmq,redis,sass,spring,vite,vscode,vue,anaconda,blender,clion,cloudflare,elasticsearch,gitlab,gmail,go,kali,linux,md,npm,php,pinia,pycharm,raspberrypi,react,sqlite,tailwind,tauri,ts,threejs,ubuntu,windows" alt="skills" />
